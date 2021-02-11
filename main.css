@@ -11,6 +11,6 @@
 	font-family: 'Comic Sans MS', Whitney, sans-serif
 }
 
-code, [class*="codeLine"], [class*="inlineCode"] {
+.about, code, [class*="codeLine"], [class*="inlineCode"] {
 	font-family: 'Comic Mono', mono !important
 }
