@@ -7,7 +7,7 @@
 	src: url('https://dtinth.github.io/comic-mono-font/ComicMono-Bold.ttf');
 }
 
-::-webkit-input-placeholder, body, button, input, select, textarea, [class*="name"], [class*="title"], [class*="unread"] {
+::-webkit-input-placeholder, body, button, input, select, textarea, [class*="name"], [class*="title"], [class*="unread"], [class*="wrapper"], [class*="header"] {
 	font-family: 'Comic Sans MS', Whitney, sans-serif;
 }
 
